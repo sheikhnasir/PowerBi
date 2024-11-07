@@ -35,7 +35,7 @@ __Video Session In ENG__
 
 [Session 3 Configuring Power BI](http://www.virtualspacecentre.com/video/972/video/epf2/day1/video4233275337.mp4)
 
-[Session 4 Power BI Service](hhttp://www.virtualspacecentre.com/video/972/video/epf2/day1/video5233275337.mp4)
+[Session 4 Power BI Service](http://www.virtualspacecentre.com/video/972/video/epf2/day1/video5233275337.mp4)
 
 [Session 5 Exercise 1 Chicago Narcotics](http://www.virtualspacecentre.com/video/972/video/epf2/day1/video10233275337.mp4)
 
