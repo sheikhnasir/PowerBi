@@ -1,5 +1,10 @@
 # PowerBi Training Material
 
+All the exercise files and Materials are in the folder exercise. Please download to start. After completing the preview
+
+Answer few questions using this link. 
+[Links](https://form.jotform.com/243074191575459)
+
 
 __Video Session In BM__
 
